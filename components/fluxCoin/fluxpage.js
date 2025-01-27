@@ -521,7 +521,7 @@ export function Flux() {
                                     <Image src={icon5} alt=""></Image>
                                 </div>
                                 <div className={styles.extext}>
-                                    
+                                Crypto.com   
                                 </div>
                                 <a href="https://crypto.com/exchange/trade/spot/FLUX_USDT" rel="noreferrer" target="_blank" className={styles.btn10}>Buy Now</a>
                             </div>
@@ -608,18 +608,6 @@ export function Flux() {
                                 <div className={styles.extext}>
                                     UNISWAP
                                     <a href="https://info.uniswap.org" rel="noreferrer" target="_blank" className={styles.btn10}>Buy Now</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-md-6"  > 
-                            <div className={styles.Exchangecard}>
-                                <div className={styles.circle}>
-                                    <Image className={styles.autoHeight} src={icon64} alt=""></Image>
-                                </div>
-                                <div className={styles.extext}>
-                                   HotBit
-                                    <a href="https://www.hotbit.io/exchange?symbol=FLUX_USDT" rel="noreferrer" target="_blank" className={styles.btn10}>Buy Now</a>
                                 </div>
                             </div>
                         </div>
